@@ -73,7 +73,7 @@ header{
 }
 
 .jumbotron:hover{
-    background-image: url('Images/cover2.jpg');
+    background-image: url('images/cover2.jpg');
 }
 .text-brand{
     margin-left: 50px;
